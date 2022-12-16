@@ -1,2 +1,5 @@
-# Electronique-de-puissance
-Learning resources. Credit: Sorbonne University, Faculty of Science and Engineering
+# LU3EE104 - Licence EEA - Sorbonne Université
+
+LU3EE104 - Réseaux électrique et électronique de puissance
+
+Slides de cours, corrigés des TDs, compte-rendus des TPs, etc.
